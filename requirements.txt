@@ -4,3 +4,4 @@ fastai
 fastbook
 voila
 ipywidgets
+graphviz
