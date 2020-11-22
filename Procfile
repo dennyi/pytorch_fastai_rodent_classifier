@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True rodent_classifier_app.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True 
